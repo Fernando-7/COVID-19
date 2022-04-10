@@ -10,5 +10,5 @@ https://covid.saude.gov.br/
 
 ## Objetivo
 
-O propósito do projeto visa entender a relação entra as variáveis colatadas visando criar visualizazões
-para uma análise de negócio a partir das informações oferecidas
+O propósito do projeto visa entender a relação entre as variáveis coletadas, visando criar visualizações
+para análise de negócio a partir das informações oferecidas
